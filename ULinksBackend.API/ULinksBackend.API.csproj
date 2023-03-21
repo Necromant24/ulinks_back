@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="6.0.12" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="..\.dockerignore">
+        <Link>.dockerignore</Link>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ULinksBackend.Models\ULinksBackend.Models.csproj" />
+      <ProjectReference Include="..\ULinksBackend.Repositories\ULinksBackend.Repositories.csproj" />
+      <ProjectReference Include="..\ULinksBackend.Services\ULinksBackend.Services.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\assets\index.395c092f.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\index.3d371409.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\materialdesignicons-webfont.48d3eec6.woff" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\materialdesignicons-webfont.861aea05.eot" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\materialdesignicons-webfont.bd725a7a.ttf" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\materialdesignicons-webfont.e52d60f6.woff2" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\webfontloader.b777d690.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\index.13c23045.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\index.69d5b75f.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\index.3a7ca5fe.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\index.33cd9be2.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\index.71f9aa21.js" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="wwwroot" />
+    </ItemGroup>
+
+</Project>

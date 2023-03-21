@@ -1,0 +1,17 @@
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\bin\Debug\net6.0\ULinksBackend.Services.deps.json
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\bin\Debug\net6.0\ULinksBackend.Services.dll
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\bin\Debug\net6.0\ULinksBackend.Services.pdb
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\bin\Debug\net6.0\ULinksBackend.Models.dll
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\bin\Debug\net6.0\ULinksBackend.Repositories.dll
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\bin\Debug\net6.0\ULinksBackend.Models.pdb
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\bin\Debug\net6.0\ULinksBackend.Repositories.pdb
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\obj\Debug\net6.0\ULinksBackend.Services.csproj.AssemblyReference.cache
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\obj\Debug\net6.0\ULinksBackend.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\obj\Debug\net6.0\ULinksBackend.Services.AssemblyInfoInputs.cache
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\obj\Debug\net6.0\ULinksBackend.Services.AssemblyInfo.cs
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\obj\Debug\net6.0\ULinksBackend.Services.csproj.CoreCompileInputs.cache
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\obj\Debug\net6.0\ULinksBackend.Services.csproj.CopyComplete
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\obj\Debug\net6.0\ULinksBackend.Services.dll
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\obj\Debug\net6.0\refint\ULinksBackend.Services.dll
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\obj\Debug\net6.0\ULinksBackend.Services.pdb
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Services\obj\Debug\net6.0\ref\ULinksBackend.Services.dll

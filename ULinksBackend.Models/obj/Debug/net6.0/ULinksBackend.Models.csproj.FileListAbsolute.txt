@@ -1,0 +1,12 @@
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\bin\Debug\net6.0\ULinksBackend.Models.deps.json
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\bin\Debug\net6.0\ULinksBackend.Models.dll
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\bin\Debug\net6.0\ULinksBackend.Models.pdb
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\obj\Debug\net6.0\ULinksBackend.Models.csproj.AssemblyReference.cache
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\obj\Debug\net6.0\ULinksBackend.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\obj\Debug\net6.0\ULinksBackend.Models.AssemblyInfoInputs.cache
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\obj\Debug\net6.0\ULinksBackend.Models.AssemblyInfo.cs
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\obj\Debug\net6.0\ULinksBackend.Models.csproj.CoreCompileInputs.cache
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\obj\Debug\net6.0\ULinksBackend.Models.dll
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\obj\Debug\net6.0\refint\ULinksBackend.Models.dll
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\obj\Debug\net6.0\ULinksBackend.Models.pdb
+C:\Users\Necromant\RiderProjects\ULinksBackend\ULinksBackend.Models\obj\Debug\net6.0\ref\ULinksBackend.Models.dll

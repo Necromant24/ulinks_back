@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULinksBackend.API", "ULinksBackend.API\ULinksBackend.API.csproj", "{88279FDA-4525-454B-98C2-D4B995E2ECD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULinksBackend.Models", "ULinksBackend.Models\ULinksBackend.Models.csproj", "{3DA41A41-26DB-405A-B7C7-8D01A887B125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULinksBackend.Repositories", "ULinksBackend.Repositories\ULinksBackend.Repositories.csproj", "{9179247F-03B3-4D30-B7BB-6DF3E8DA5FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULinksBackend.Services", "ULinksBackend.Services\ULinksBackend.Services.csproj", "{C7C2D319-65C3-4A5E-9E94-DC8A4282261E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88279FDA-4525-454B-98C2-D4B995E2ECD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88279FDA-4525-454B-98C2-D4B995E2ECD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88279FDA-4525-454B-98C2-D4B995E2ECD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88279FDA-4525-454B-98C2-D4B995E2ECD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA41A41-26DB-405A-B7C7-8D01A887B125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA41A41-26DB-405A-B7C7-8D01A887B125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA41A41-26DB-405A-B7C7-8D01A887B125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA41A41-26DB-405A-B7C7-8D01A887B125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9179247F-03B3-4D30-B7BB-6DF3E8DA5FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9179247F-03B3-4D30-B7BB-6DF3E8DA5FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9179247F-03B3-4D30-B7BB-6DF3E8DA5FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9179247F-03B3-4D30-B7BB-6DF3E8DA5FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C2D319-65C3-4A5E-9E94-DC8A4282261E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C2D319-65C3-4A5E-9E94-DC8A4282261E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C2D319-65C3-4A5E-9E94-DC8A4282261E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C2D319-65C3-4A5E-9E94-DC8A4282261E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
